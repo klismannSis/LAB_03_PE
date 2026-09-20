@@ -1,6 +1,6 @@
 # Labora - Plataforma de Matrícula de Laboratorios
 
-**LAB_03_PE** es una aplicación web tipo SPA para gestionar la oferta académica y la matrícula de laboratorios universitarios. Permite a los estudiantes consultar horarios, revisar cupos, matricularse, cancelar inscripciones y descargar un comprobante en PDF. También ofrece un panel administrativo para controlar laboratorios, aforos, horarios y métricas de ocupación.
+Este proyecto es una aplicación web tipo SPA para gestionar la oferta académica y la matrícula de laboratorios universitarios. Permite a los estudiantes consultar horarios, revisar cupos, matricularse, cancelar inscripciones y descargar un comprobante en PDF. También ofrece un panel administrativo para controlar laboratorios, aforos, horarios y métricas de ocupación.
 
 La aplicación funciona actualmente sin backend: utiliza `localStorage` como almacenamiento local para facilitar la demostración, las pruebas y una futura integración con una API REST.
 
